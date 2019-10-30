@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Our new e-mail address"
+date:   2019-10-30 08:16:50 +0100
+categories: jekyll update
+---
+Hey there! The EGG is hatching slowly and now our new e-mail address [ egg@igsoc.org](mailto:egg@igsoc.org) is up. If you have ideas, suggestions or you want to discuss something with us, please write us! We are happy to consider all early glaciologist desires!
